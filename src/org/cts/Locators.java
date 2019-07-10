@@ -18,5 +18,4 @@ public class Locators {
 		btnlogin.click();
 		driver.quit();
 	}
-
 }
