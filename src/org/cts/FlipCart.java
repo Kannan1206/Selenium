@@ -19,5 +19,5 @@ public static void main(String[] args) {
 	WebElement click3 = driver.findElement(By.xpath("(//span[@class='_1QZ6fC _3Lgyp8'])[1]"));
 	click3.click();
 	driver.quit();
-}
+	}
 }
